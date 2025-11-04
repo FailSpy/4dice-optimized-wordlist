@@ -27,7 +27,7 @@
 1153 agree
 1154 ahead
 1155 ahoy
-1156 aide
+1156 aid
 1161 aim
 1162 air
 1163 ajar
